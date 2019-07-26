@@ -14,7 +14,7 @@
   "scripts": {
     "start": "npm run test",
     "dev": "lite-server",
-    "test": "lite-server",
+    "test": "lite-server"
 
   },
   "eslintConfig": {
